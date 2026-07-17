@@ -2,7 +2,7 @@
 
 Welcome! This repository houses the code for my personal portfolio. It is a modern, responsive, and interactive single-page web application designed to showcase my journey, technical skills, and key projects as a frontend developer.
 
-🔗 **Explore the live site here:** [View Portfolio](https://your-portfolio-link.com)
+🔗 **Explore the live site here:** [View Portfolio](https://traptisingh7300.github.io/My_Portfolio/)
 
 ---
 
